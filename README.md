@@ -1,27 +1,27 @@
 # Final-
 1. Requirement Analysis
-Objective: Understand the goals, user needs, and system requirements.
+Objective: The goals, user needs, and system requirements.
 
-Stakeholder Identification: Identify key stakeholders such as meteorological agencies, emergency services, end-users (residents, businesses), and IT teams.
+Stakeholder Identitie: Key stakeholders for meteorological agencies, emergency services, end-users, and IT teams.
 
-Requirement Gathering: Conduct interviews, surveys, and workshops to gather detailed requirements. Focus on:
+Requirement Gathering: Interviews, surveys, and workshops. Need:
 
-Types of severe weather events to monitor (hurricanes, tornadoes, floods, etc.).
-Methods of alert delivery (SMS, email, mobile apps).
-User customization options (alert types, frequency, geolocation preferences).
-Integration needs (existing systems, third-party data sources).
+Types of severe weather events to monitor.
+Methods of alert delivery.
+User customization options.
+Integration needs.
 Compliance with regulations and data privacy laws.
-2. Feasibility Study
-Objective: Evaluate the technical, operational, and financial feasibility.
+2. Studies
+Objective: Evaluate the technical, operational, and financial system.
 
-Technical Feasibility: Assess the availability of data sources (NWS, Weather.com, etc.), API integration capabilities, and potential technological challenges.
+Technical: Assess availability of data sources, API integration capabilities, and potential technological challenges.
 
-Operational Feasibility: Determine the resources required for development, deployment, and maintenance. Assess the scalability of the system.
+Operational: Determine the resources required for development, deployment, and maintenance. Assess the scalability of the system.
 
-Financial Feasibility: Estimate the costs involved, including development, infrastructure, and ongoing support. Develop a budget and identify potential funding sources.
+Financial: Estimate the costs involved, including development, infrastructure, and ongoing support. Develop a budget and identify potential funding sources.
 
 3. System Design
-Objective: Outline the architecture and design of the system.
+Objective: Outline the design of the system.
 
 System Architecture:
 
